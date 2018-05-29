@@ -17,6 +17,8 @@ public class ProjectJava {
     public static void main(String[] args) {
         System.out.println("Helloworld!");
         System.out.println("New");
+                System.out.println("New");
+
         // TODO code application logic here
     }
     
